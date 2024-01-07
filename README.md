@@ -1,2 +1,1 @@
-
-## This is reading for Gauss/Rail Rifle project
+## Repo for Gauss/Rail Project
