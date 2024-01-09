@@ -5,3 +5,7 @@ Lorentz Force Law/ Force of projectile = Current * length of projectile * Magnet
 Amps >> everything else <br>
 Capacitors most obv choice <br>
 "Pulse power supply" also an option, allows small pulses of energy, minimizing losses, unlikely though<br>
+
+mini railgun- <br>
+https://youtu.be/JqPOSBIiBAw?si=OgtUDGIik0BJYvfd <br>
+
